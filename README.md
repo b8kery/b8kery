@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @b8kery
-- 👀 I’m cloud native things
+- 👀 I’m into cloud native things
 - 🌱 I’m currently learning every day
 - 💞️ I’m looking to collaborate on whatever suits my fancy
 - 📫 How to reach me - I'll reach you
